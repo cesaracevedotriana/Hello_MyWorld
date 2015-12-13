@@ -5,7 +5,3 @@ This is another repo in my training
 * We unknow the funtions of this gene
 * We only know one part
 * The public data hence the knowlegde about science
-#### this is possible
-### Is another stupid sentence or show my progress
-### I love my wife and my childrens (Juan and Laura)
-# Hello Lauris
